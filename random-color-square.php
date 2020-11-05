@@ -7,6 +7,7 @@
   <?php
 
 	for ($a = 0; $a < 12; $a++) {
+//massive with 6 colors
  $color = [
 "#000000", 
 "#607D8B", 
