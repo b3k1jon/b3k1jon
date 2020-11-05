@@ -15,8 +15,8 @@ $color = [
 "#F4A460", 
 "#FFEBCD"
 ];
-	$c = rand(0,5);
-	$get = $color[$c];
+	$c = rand(0,5); //getting random number for $color massive
+	$get = $color[$c]; //putting $c 
 	
 $html .= ".square".$a." {
 	height: 50px;
